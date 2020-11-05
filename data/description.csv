@@ -1,0 +1,23 @@
+Name;Description;Data type
+_id;Unique node identification;string
+stamp;Measurement time stamp in UNIX date format;long
+stamp_db;Measurement time stamp in UNIX date format;long
+pc;Consumed real power (kW);float
+pc2;Consumed real power (kW);float
+pc3;Consumed real power (kW);float
+pg;Generated real power (kW);float
+pg2;Generated real power (kW);float
+pg3;Generated real power (kW);float
+qc;Consumed reactive power (kVAR);float
+qc2;Consumed reactive power (kVAR);float
+qc3;Consumed reactive power (kVAR);float
+qg;Generated reactive power (kVAR);float
+qg2;Generated reactive power (kVAR);float
+qg3;Generated reactive power (kVAR);float
+f1;Frequency (Hz);float
+i1;Current (A);float
+i2;Current (A);float
+i3;Current (A);float
+v1;Voltage (kV);float
+v2;Voltage (kV);float
+v3;Voltage (kV);float
