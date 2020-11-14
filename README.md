@@ -5,6 +5,8 @@ The main goal of the project was to create a model from time-series data that ca
 - to predict for the next hour (if the value of the consumption for 3 pm is known, the prediction should be made till 4 pm)
 - to predict for the next day (if the value of the consumption for 3 pm today is known, the prediction should be made till 3 pm the next day)
 
+▸ This work is done as a project during my Machine Learning Intership position at INNOFEIT. February 2019.
+
 ## FILES EXPLANATION:
 ---
 There are three codes: “allusers_feature_extraction.py”; “FinalCode.py”; “generateNewData.py”.
